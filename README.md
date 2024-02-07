@@ -1,20 +1,3 @@
-# Tinymotd
-
-Tinymotd generate a configurable dynamic motd via shell script
-
-## Features
-
-* Easy configuration and customisation
-* Tiny (<100kb) optimized scripts
-* Minimal dependencies
-* Many widgets: docker, lxc, apt, pacman, certificates, disks, ...
-
-## Demo
-
-![tinymotd](./motd.png)
-
-## Setup
-
 ### Automated 
 
 The automated install use systemd timer or cron and bashrc.  
